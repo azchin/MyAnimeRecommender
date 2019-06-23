@@ -1,1 +1,1 @@
-# CorrectButNotRight.github.io-myanimerecommender
+# MyAnimeRecommender
