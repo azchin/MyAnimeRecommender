@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    height: 100%
+}
+
+.in {
+    text-align: center;
+    margin-top: 10%;
+}
+
+input[type="submit"] {
+    background-color: #1f53fc;
+    color: white;
+    border: none;
+    padding: 3px 9px;
+}
+
+#output {
+    margin-top: 16px;
+    text-align: center;
+}
