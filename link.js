@@ -13,8 +13,8 @@ function formatData(input) {
 
 function getList(user) {
     var url;
-    url = "https://my-anime-recommender.herokuapp.com/?u=" + user;
-    //url = "http://localhost:5000/?u=" + user;
+    //url = "https://my-anime-recommender.herokuapp.com/?u=" + user;
+    url = "http://localhost:5000/?u=" + user;
     //url = "http://localhost:5000/test/";
     return url;
 }
